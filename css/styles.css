@@ -40,3 +40,12 @@ body
 {
     padding: 1em;
 }
+
+#footer{
+    width: 70%;
+    text-align: center;
+    border: 1px solid #33A;
+    margin-left: 200px;
+    margin-top: 300px;
+    margin-bottom: 0%;
+}
